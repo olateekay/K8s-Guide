@@ -45,7 +45,7 @@ Before starting with Kubernetes, an in depth knowledge of a container technology
 ### KUBERNETES ARCHITECTURE
 Here's the diagram of a Kubernetes cluster with all the components tied together.
 
-![k8s diagram](image.jpg)
+![k8s diagram](https://github.com/olateekay/K8s-Guide/blob/main/k8s-arc.png)
  
 
 
